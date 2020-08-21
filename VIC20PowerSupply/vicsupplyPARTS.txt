@@ -1,0 +1,18 @@
+Mfr. #:	WRG32F2FBGLN
+Desc.:	Rocker Switches Rocker Switches DPST ON-OFF GRN 16A ILLUMINATED "O -"
+
+Mfr. #:	VPT18-1390
+Desc.:	Power Transformers Power Transformers POWER XFMR 18.0VCT@1.39A UL/CE TOROIDAL MOUNT
+
+Mfr. #:	311007-01
+Desc.:	AC Power Cords AC Power Cords 6'7" 3 X 18 3 COND
+
+Mfr. #:	AC-C7 NA
+Desc.:	AC Power Cords AC Power Cords AC Cord North America, C7 for C8 inlet, 18/2 SPT-2, 6', Black, RoHS
+
+Mfr. #:	TMOV20RP115E
+Desc.:	Varistors Varistors THERMALLY PROTECTED VARISTOR 20MM (connect across mains)
+
++ 2 cable retension grips
++ fuses (supply capable of 2.78A on 9VAC side, max 217mA on the primary side)
++ crimp connectors
