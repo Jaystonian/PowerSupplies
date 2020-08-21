@@ -15,4 +15,18 @@ Desc.:	Varistors Varistors THERMALLY PROTECTED VARISTOR 20MM (connect across mai
 
 + 2 cable retension grips
 + fuses (supply capable of 2.78A on 9VAC side, max 217mA on the primary side)
-+ crimp connectors
++ crimp connectors (for switch wires to reverse if wired backwards, also for automotive fuses..)
+
+
+
+
+::CIRCUIT::
+=====================
+
+- Varistor will be connected across the switch "ON" side. Parallel to mains but disconnected from mains when switch is off.
+- Mains cable 1st wire connects to switch left OFF side.  Mains must go to OFF side or switch will always be illuminated. 
+- Mains cable 2nd wire conncts to switch right OFF side. 
+- Switch left ON side connects to 0.250mA fuse.  Other side of fuse connects to transformer primary #1.
+- Switch right ON side connects to transformer primary #2.
+- Transformer secondary #1 connects to 2.5A fuse.  Other side of fuse connects to C7 cable 1st wire.
+- Transformer secondary #2 connects to C7 cable 2nd wire.
