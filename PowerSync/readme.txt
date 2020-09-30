@@ -13,4 +13,4 @@ Purpose: My C128D power supply was updated with modern switching regulation,
   the 5v power domain of other system boards it is attached to.
 
   *PCB should be 2oz copper clad or heavier
-  *Ground plane does not have any thermal relief, sorry!
+
